@@ -1,6 +1,7 @@
 package test2;
 
 public class JavaTest04 {
+	
 	public static void main(String[] args) {
 		
 		int arr[] = { 4, 2, 1, 5, 3 };
@@ -21,5 +22,6 @@ public class JavaTest04 {
 		for (int i = 0; i < 5; i++) {
 			System.out.print(arr[i]+", ");
 		}		
-	}	
+	}
+	
 }
